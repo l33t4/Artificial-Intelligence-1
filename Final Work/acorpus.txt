@@ -1,0 +1,15 @@
+[
+	"Hello there!",
+	"Londons like Chicago",
+	"Mild with gales",
+	"Tap the options and tap on time and date option",
+	"Updates are on the options tab in setting under notification. Select push notifications",
+	"History database is accessed through options and select history",
+	"Keep pressing back until you are at start or close and re-open the app",
+	"Tap the close icon on the top right",
+	"It is at the top left of the screen. The 3 dots",
+	"The tutorial is in the options tab",
+	"One will be in contact with you soon",
+	"I'm sorry to here this, your error has been logged",
+	"Try updating the app, your error has been logged"
+]

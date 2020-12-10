@@ -1,0 +1,15 @@
+[
+	"Hello there good man!",
+	"It is quite windy in London",
+	"How is the weather today?",
+	"How do i access the calender",
+	"How do i get updates",
+	"How do i access the database",
+	"How do i get to start page",
+	"How do i exit the app",
+	"Where is the options tab",
+	"How do i use the app",
+	"Can i speak with customer service",
+	"The start page won't work", 
+	"The tabs don’t work"
+]
